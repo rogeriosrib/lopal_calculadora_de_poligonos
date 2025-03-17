@@ -14,7 +14,7 @@ public class CircunferenciaDao {
 		
 		Circunferencia circunferencia = new Circunferencia();
 		
-		System.out.print("Digite a medida o raio da circunferência: ");
+		System.out.print("Digite a medida do raio da circunferência: ");
 
 		
 		circunferencia.setRaio(leitor.nextDouble());
